@@ -1,5 +1,5 @@
 - 👋 Hi, We are the @MPG-Robotics
-- 👀 We are interested in winning in Siegen,Germany
+- 👀 We are interested in winning in Siegen, Germany
 - 🌱 We won the first place in Regensburg at FLL
 
 <!---
