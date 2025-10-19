@@ -1,6 +1,6 @@
 - 👋 Hi, We are the @MPG-Robotics
 - 👀 We are interested in winning in Leipzig, Germany
-- 🌱 We won the first place in Regensburg at FLL
+- 🌱 We won the first place in Regensburg at FLL last saison
 
 <!---
 MPG-Robotics/MPG-Robotics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
